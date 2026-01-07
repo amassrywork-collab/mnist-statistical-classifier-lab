@@ -12,7 +12,7 @@
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-Metrics%20%26%20Tools-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-<p><b>Course / Lab:</b> Assignment 3 — MNIST • <b>Topic:</b> Distance-based baseline (MAE vs MSE) + Accuracy + Confusion Matrix</p>
+<p><b>Course / Lab:</b> Computer Vision Lab - Assignment 3 — MNIST • <b>Topic:</b> Distance-based baseline (MAE vs MSE) + Accuracy + Confusion Matrix</p>
 
 </div>
 
