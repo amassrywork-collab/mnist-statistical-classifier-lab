@@ -70,3 +70,17 @@ The project concludes with **accuracy evaluation** and a **(normalized) confusio
 │   ├── t10k-images-idx3-ubyte.gz
 │   └── t10k-labels-idx1-ubyte.gz
 └── README.md
+```
+Notes on Reproducibility
+
+-Results may vary slightly if any randomized operations are used.
+-For cross-validation workflows, random_state is used to keep splits reproducible.
+
+## Results (Fill In After Running)
+
+**MAE Accuracy:** __
+**MSE Accuracy:** __
+**Most common confusions:** __ (e.g., 4↔9, 3↔5)
+
+## License
+This project is intended for educational use.
