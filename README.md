@@ -4,7 +4,7 @@
 <h1>MNIST Lab — Baseline Classification with Mean Images</h1>
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-Array%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-Plotting-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
